@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+ .container{
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+ }
